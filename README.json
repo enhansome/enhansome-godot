@@ -232,7 +232,7 @@
             "last_commit": "2025-02-03T10:54:41Z",
             "owner": "w84death",
             "repo": "Tanks-of-Freedom",
-            "stars": 1201
+            "stars": 1202
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2025-03-29T19:47:02Z",
             "owner": "Calinou",
             "repo": "platshoot",
-            "stars": 49
+            "stars": 50
           }
         },
         {
@@ -442,7 +442,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T08:53:01Z",
+            "last_commit": "2026-08-14T21:13:25Z",
             "owner": "Revolutionary-Games",
             "repo": "Thrive",
             "stars": 3654
@@ -459,7 +459,7 @@
             "last_commit": "2026-08-12T22:25:10Z",
             "owner": "Quaint-Studios",
             "repo": "Reia",
-            "stars": 905
+            "stars": 906
           }
         },
         {
@@ -610,10 +610,10 @@
           "repo_info": {
             "archived": false,
             "language": "GDScript",
-            "last_commit": "2026-08-13T23:38:56Z",
+            "last_commit": "2026-08-15T08:49:22Z",
             "owner": "Orama-Interactive",
             "repo": "Pixelorama",
-            "stars": 10102
+            "stars": 10112
           }
         },
         {
@@ -641,7 +641,7 @@
             "last_commit": "2026-08-06T15:27:03Z",
             "owner": "RodZill4",
             "repo": "material-maker",
-            "stars": 5829
+            "stars": 5832
           }
         },
         {
@@ -652,10 +652,10 @@
           "repo_info": {
             "archived": false,
             "language": "GDScript",
-            "last_commit": "2026-08-13T20:46:28Z",
+            "last_commit": "2026-08-14T20:36:09Z",
             "owner": "MewPurPur",
             "repo": "GodSVG",
-            "stars": 2689
+            "stars": 2694
           }
         },
         {
@@ -669,7 +669,7 @@
             "last_commit": "2023-11-23T00:33:30Z",
             "owner": "protongraph",
             "repo": "protongraph",
-            "stars": 1710
+            "stars": 1719
           }
         },
         {
@@ -683,7 +683,7 @@
             "last_commit": "2025-09-05T15:03:54Z",
             "owner": "mhgolkar",
             "repo": "Arrow",
-            "stars": 1332
+            "stars": 1334
           }
         },
         {
@@ -731,7 +731,7 @@
             "last_commit": "2023-09-16T06:18:55Z",
             "owner": "alfredbaudisch",
             "repo": "Godello",
-            "stars": 881
+            "stars": 882
           }
         },
         {
@@ -781,10 +781,10 @@
           "repo_info": {
             "archived": false,
             "language": "GDScript",
-            "last_commit": "2026-08-14T04:55:27Z",
+            "last_commit": "2026-08-15T06:43:04Z",
             "owner": "Maaack",
             "repo": "Godot-Game-Template",
-            "stars": 1595
+            "stars": 1597
           }
         },
         {
@@ -1011,7 +1011,7 @@
             "last_commit": "2026-08-12T01:59:22Z",
             "owner": "godotengine",
             "repo": "godot-demo-projects",
-            "stars": 9339
+            "stars": 9343
           }
         },
         {
@@ -1143,7 +1143,7 @@
             "last_commit": "2026-04-15T18:39:15Z",
             "owner": "godot-extended-libraries",
             "repo": "godot-realistic-water",
-            "stars": 942
+            "stars": 943
           }
         },
         {
@@ -1277,7 +1277,7 @@
             "last_commit": "2026-08-10T19:03:16Z",
             "owner": "TokisanGames",
             "repo": "Terrain3D",
-            "stars": 4166
+            "stars": 4170
           }
         },
         {
@@ -1288,10 +1288,10 @@
           "repo_info": {
             "archived": false,
             "language": "GDScript",
-            "last_commit": "2026-08-12T03:24:45Z",
+            "last_commit": "2026-08-15T07:34:25Z",
             "owner": "nathanhoad",
             "repo": "godot_dialogue_manager",
-            "stars": 3771
+            "stars": 3774
           }
         },
         {
@@ -1319,7 +1319,21 @@
             "last_commit": "2026-07-29T13:01:05Z",
             "owner": "bitbrain",
             "repo": "beehave",
-            "stars": 3229
+            "stars": 3230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LimboAI",
+          "description": "Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-04T19:20:06Z",
+            "owner": "limbonaut",
+            "repo": "limboai",
+            "stars": 2955
           }
         },
         {
@@ -1334,20 +1348,6 @@
             "owner": "HungryProton",
             "repo": "scatter",
             "stars": 2955
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LimboAI",
-          "description": "Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-04T19:20:06Z",
-            "owner": "limbonaut",
-            "repo": "limboai",
-            "stars": 2954
           }
         },
         {
@@ -1375,7 +1375,7 @@
             "last_commit": "2026-07-30T20:14:30Z",
             "owner": "Zylann",
             "repo": "godot_heightmap_plugin",
-            "stars": 2246
+            "stars": 2248
           }
         },
         {
@@ -1389,7 +1389,7 @@
             "last_commit": "2026-08-07T10:36:57Z",
             "owner": "SirRamEsq",
             "repo": "SmartShape2D",
-            "stars": 1731
+            "stars": 1732
           }
         },
         {
@@ -1414,10 +1414,10 @@
           "repo_info": {
             "archived": false,
             "language": "GDScript",
-            "last_commit": "2026-08-14T04:55:27Z",
+            "last_commit": "2026-08-15T06:43:04Z",
             "owner": "Maaack",
             "repo": "Godot-Game-Template",
-            "stars": 1595
+            "stars": 1597
           }
         },
         {
@@ -1428,7 +1428,7 @@
           "repo_info": {
             "archived": false,
             "language": "GDScript",
-            "last_commit": "2026-08-14T07:21:21Z",
+            "last_commit": "2026-08-15T09:16:24Z",
             "owner": "blackears",
             "repo": "cyclopsLevelBuilder",
             "stars": 1579
@@ -1442,10 +1442,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T09:44:29Z",
+            "last_commit": "2026-08-14T14:06:22Z",
             "owner": "2shady4u",
             "repo": "godot-sqlite",
-            "stars": 1411
+            "stars": 1412
           }
         },
         {
@@ -1540,7 +1540,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T08:15:51Z",
+            "last_commit": "2026-08-14T20:46:14Z",
             "owner": "nobodywho-ooo",
             "repo": "nobodywho",
             "stars": 1046
@@ -1557,7 +1557,7 @@
             "last_commit": "2026-07-19T16:49:59Z",
             "owner": "Maran23",
             "repo": "script-ide",
-            "stars": 1032
+            "stars": 1033
           }
         },
         {
@@ -1599,7 +1599,7 @@
             "last_commit": "2026-08-09T04:24:22Z",
             "owner": "func-godot",
             "repo": "func_godot_plugin",
-            "stars": 820
+            "stars": 821
           }
         },
         {
@@ -1641,7 +1641,7 @@
             "last_commit": "2026-08-02T23:58:16Z",
             "owner": "GodotVR",
             "repo": "godot-xr-tools",
-            "stars": 714
+            "stars": 716
           }
         },
         {
@@ -1669,7 +1669,7 @@
             "last_commit": "2026-07-23T19:49:00Z",
             "owner": "glass-brick",
             "repo": "Scene-Manager",
-            "stars": 630
+            "stars": 631
           }
         },
         {
@@ -1694,10 +1694,10 @@
           "repo_info": {
             "archived": false,
             "language": "GDScript",
-            "last_commit": "2026-08-13T22:14:06Z",
+            "last_commit": "2026-08-15T06:41:37Z",
             "owner": "Maaack",
             "repo": "Godot-Menus-Template",
-            "stars": 468
+            "stars": 470
           }
         },
         {
@@ -1767,7 +1767,7 @@
             "last_commit": "2024-06-27T17:31:28Z",
             "owner": "SoloByte",
             "repo": "godot-polygon2d-fracture",
-            "stars": 409
+            "stars": 411
           }
         },
         {
@@ -1781,7 +1781,7 @@
             "last_commit": "2026-08-12T12:55:13Z",
             "owner": "H2xDev",
             "repo": "GodotVMF",
-            "stars": 406
+            "stars": 407
           }
         },
         {
@@ -1851,7 +1851,7 @@
             "last_commit": "2026-06-05T03:29:56Z",
             "owner": "Rubonnek",
             "repo": "dialogue-engine",
-            "stars": 337
+            "stars": 338
           }
         },
         {
@@ -1935,7 +1935,7 @@
             "last_commit": "2026-08-05T17:15:59Z",
             "owner": "TaloDev",
             "repo": "godot",
-            "stars": 236
+            "stars": 237
           }
         },
         {
@@ -2100,10 +2100,24 @@
           "repo_info": {
             "archived": false,
             "language": "GDScript",
-            "last_commit": "2026-08-12T14:11:41Z",
+            "last_commit": "2026-08-14T14:25:28Z",
             "owner": "godothub",
             "repo": "konado",
             "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Juicee",
+          "description": "game-feel effects (screen shake, hit stop, camera effects and more) with a visual graph editor, inspector UI, and one-liner API. Inspired by Unity's FEEL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GDScript",
+            "last_commit": "2026-08-14T17:10:17Z",
+            "owner": "Kelpekk",
+            "repo": "Juicee",
+            "stars": 111
           }
         },
         {
@@ -2118,20 +2132,6 @@
             "owner": "4d49",
             "repo": "scene-library",
             "stars": 110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Juicee",
-          "description": "game-feel effects (screen shake, hit stop, camera effects and more) with a visual graph editor, inspector UI, and one-liner API. Inspired by Unity's FEEL.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "GDScript",
-            "last_commit": "2026-08-12T12:34:19Z",
-            "owner": "Kelpekk",
-            "repo": "Juicee",
-            "stars": 109
           }
         },
         {
@@ -2543,7 +2543,7 @@
             "last_commit": "2026-08-12T14:08:54Z",
             "owner": "ceceppa",
             "repo": "anima",
-            "stars": 770
+            "stars": 771
           }
         },
         {
@@ -2571,7 +2571,7 @@
             "last_commit": "2023-05-04T17:57:49Z",
             "owner": "tomankirilov",
             "repo": "VPainter",
-            "stars": 505
+            "stars": 506
           }
         },
         {
@@ -2599,7 +2599,7 @@
             "last_commit": "2024-12-20T02:57:41Z",
             "owner": "jarneson",
             "repo": "godot-ply",
-            "stars": 423
+            "stars": 424
           }
         },
         {
@@ -3409,10 +3409,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-10T08:03:25Z",
+            "last_commit": "2026-08-14T13:21:23Z",
             "owner": "appsinacup",
             "repo": "godot-rapier-physics",
-            "stars": 980
+            "stars": 978
           }
         },
         {
@@ -3861,7 +3861,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T06:32:08Z",
+            "last_commit": "2026-08-15T06:28:16Z",
             "owner": "JetBrains",
             "repo": "godot-support",
             "stars": 500
@@ -4424,7 +4424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:14:35.770Z",
+    "last_updated": "2026-08-15T09:36:27.835Z",
     "original_repository": "godotengine/awesome-godot",
     "original_repository_sha": "5bee20edd065a17c8a47ff920b9d36945c989d2b",
     "enhanced_repository": "enhansome/enhansome-godot",
