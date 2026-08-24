@@ -258,7 +258,7 @@
                     "last_commit": "2024-04-24T09:30:54Z",
                     "owner": "akien-mga",
                     "repo": "dynadungeons",
-                    "stars": 240
+                    "stars": 241
                   }
                 },
                 {
@@ -464,7 +464,7 @@
                     "archived": false,
                     "id": 5616877,
                     "language": "C#",
-                    "last_commit": "2026-08-24T09:12:36Z",
+                    "last_commit": "2026-08-24T12:15:34Z",
                     "owner": "Revolutionary-Games",
                     "repo": "Thrive",
                     "stars": 3656
@@ -482,7 +482,7 @@
                     "last_commit": "2026-08-20T14:46:19Z",
                     "owner": "Quaint-Studios",
                     "repo": "Reia",
-                    "stars": 915
+                    "stars": 916
                   }
                 },
                 {
@@ -586,6 +586,28 @@
               "description": null,
               "node_type": "group",
               "title": "Godot 3"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Cheese Hunter",
+                  "description": "A game for Godot Engine Jam of March 2016.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 54328562,
+                    "language": "PHP",
+                    "last_commit": "2016-03-21T07:39:25Z",
+                    "owner": "khairul169",
+                    "repo": "cheese-hunter",
+                    "stars": 16
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Godot 2"
             }
           ],
           "description": null,
@@ -594,6 +616,28 @@
         },
         {
           "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Piggy Rescue",
+                  "description": "Fun little example game where you chase and rescue little pigs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 705323268,
+                    "language": "GDScript",
+                    "last_commit": "2023-10-27T11:17:44Z",
+                    "owner": "surreal6",
+                    "repo": "piggyRescue",
+                    "stars": 16
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Godot 4"
+            },
             {
               "children": [
                 {
@@ -656,7 +700,7 @@
                 "last_commit": "2026-08-22T14:50:54Z",
                 "owner": "Orama-Interactive",
                 "repo": "Pixelorama",
-                "stars": 10177
+                "stars": 10179
               }
             },
             {
@@ -871,7 +915,7 @@
                 "last_commit": "2026-06-21T15:20:16Z",
                 "owner": "crystal-bit",
                 "repo": "godot-game-template",
-                "stars": 968
+                "stars": 969
               }
             },
             {
@@ -1101,7 +1145,7 @@
                 "last_commit": "2026-05-01T20:26:21Z",
                 "owner": "gdquest-demos",
                 "repo": "godot-open-rpg",
-                "stars": 2942
+                "stars": 2944
               }
             },
             {
@@ -1213,7 +1257,7 @@
                 "last_commit": "2021-04-26T01:38:17Z",
                 "owner": "gdquest-demos",
                 "repo": "godot-make-pro-2d-games",
-                "stars": 1253
+                "stars": 1254
               }
             },
             {
@@ -1353,7 +1397,7 @@
                 "last_commit": "2026-08-11T11:40:48Z",
                 "owner": "dialogic-godot",
                 "repo": "dialogic",
-                "stars": 5932
+                "stars": 5933
               }
             },
             {
@@ -1368,7 +1412,7 @@
                 "last_commit": "2026-08-17T22:15:12Z",
                 "owner": "TokisanGames",
                 "repo": "Terrain3D",
-                "stars": 4192
+                "stars": 4193
               }
             },
             {
@@ -1383,7 +1427,7 @@
                 "last_commit": "2026-08-23T22:44:20Z",
                 "owner": "nathanhoad",
                 "repo": "godot_dialogue_manager",
-                "stars": 3798
+                "stars": 3799
               }
             },
             {
@@ -1398,7 +1442,7 @@
                 "last_commit": "2026-08-20T20:33:24Z",
                 "owner": "ramokz",
                 "repo": "phantom-camera",
-                "stars": 3516
+                "stars": 3517
               }
             },
             {
@@ -1503,7 +1547,7 @@
                 "last_commit": "2026-08-13T11:06:34Z",
                 "owner": "CraterCrash",
                 "repo": "godot-orchestrator",
-                "stars": 1612
+                "stars": 1613
               }
             },
             {
@@ -1650,7 +1694,7 @@
                 "archived": false,
                 "id": 851630314,
                 "language": "Rust",
-                "last_commit": "2026-08-24T09:57:32Z",
+                "last_commit": "2026-08-24T12:15:47Z",
                 "owner": "nobodywho-ooo",
                 "repo": "nobodywho",
                 "stars": 1076
@@ -1698,7 +1742,7 @@
                 "last_commit": "2026-06-22T08:21:56Z",
                 "owner": "utopia-rise",
                 "repo": "fmod-gdextension",
-                "stars": 929
+                "stars": 930
               }
             },
             {
@@ -1878,7 +1922,7 @@
                 "last_commit": "2026-07-27T20:11:39Z",
                 "owner": "alessandrofama",
                 "repo": "wwise-godot-integration",
-                "stars": 437
+                "stars": 438
               }
             },
             {
@@ -4307,7 +4351,7 @@
                 "last_commit": "2025-12-13T10:13:05Z",
                 "owner": "passivestar",
                 "repo": "godot-minimal-theme",
-                "stars": 3778
+                "stars": 3779
               }
             },
             {
@@ -4563,7 +4607,7 @@
             "last_commit": "2026-08-18T23:48:03Z",
             "owner": "abarichello",
             "repo": "godot-ci",
-            "stars": 1113
+            "stars": 1114
           }
         },
         {
@@ -4736,7 +4780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:00:36.052Z",
+    "last_updated": "2026-08-24T13:53:17.040Z",
     "original_repository": "godotengine/awesome-godot",
     "original_repository_id": 33825948,
     "original_repository_sha": "5bee20edd065a17c8a47ff920b9d36945c989d2b",
