@@ -37,8 +37,9 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support) 
 #### Godot 4
 
 * [Unknown Horizons](https://github.com/unknown-horizons/godot-port) ⭐ 910 | 🐛 14 | 🌐 GDScript | 📅 2026-09-14 - Official work-in-progress reimplementation of Unknown Horizons.
-* [Worlds Upon The Wind](https://github.com/max99x/wutw-public) ⭐ 237 | 🐛 0 | 🌐 GDScript | 📅 2026-09-30 - A commercial roguelite deckbuilder released as public domain.
-* [A Dark Forest](https://github.com/TinyTakinTeller/GodotProjectZero) ⭐ 204 | 🐛 10 | 🌐 GDScript | 📅 2026-05-02 - Minimalistic incremental game inspired by "A Dark Room".
+* [Worlds Upon The Wind](https://github.com/max99x/wutw-public) ⭐ 238 | 🐛 0 | 🌐 GDScript | 📅 2026-09-30 - A commercial roguelite deckbuilder released as public domain.
+* [A Dark Forest](https://github.com/TinyTakinTeller/GodotProjectZero) ⭐ 205 | 🐛 10 | 🌐 GDScript | 📅 2026-05-02 - Minimalistic incremental game inspired by "A Dark Room".
+* [Source of Mana](https://github.com/sourceofmana/sourceofmana) ⭐ 71 | 🐛 86 | 🌐 GDScript | 📅 2026-10-04 - 2D MMORPG inspired by SNES-era RPG aesthetics and mechanics.
 * [99Managers Futsal Edition](https://codeberg.org/dulvui/99managers-futsal-edition) - A simple free/libre Futsal team-management game.
 * [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
 * [Poder Solar](https://codeberg.org/antimundo/poder-solar) - Simple resource management game.
@@ -83,8 +84,8 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support) 
 
 #### Godot 4
 
-* [Thrive](https://github.com/Revolutionary-Games/Thrive/) ⭐ 3,730 | 🐛 535 | 🌐 C# | 📅 2026-10-05 - A free, open-source game about the evolution of life (Mono).
-* [Reia](https://github.com/Quaint-Studios/Reia) ⭐ 963 | 🐛 16 | 🌐 GDScript | 📅 2026-10-04 - A free game that's an action adventure RPG for Desktop and Mobile with multiplayer, MMO, and offline support.
+* [Thrive](https://github.com/Revolutionary-Games/Thrive/) ⭐ 3,733 | 🐛 533 | 🌐 C# | 📅 2026-10-06 - A free, open-source game about the evolution of life (Mono).
+* [Reia](https://github.com/Quaint-Studios/Reia) ⭐ 964 | 🐛 16 | 🌐 GDScript | 📅 2026-10-04 - A free game that's an action adventure RPG for Desktop and Mobile with multiplayer, MMO, and offline support.
 * [OpenLiberty](https://github.com/FOSS-Supremacy/OpenLiberty) ⭐ 463 | 🐛 11 | 🌐 GDScript | 📅 2026-09-13 - An open-source reimplementation of Grand Theft Auto III on the Godot Engine.
 * [Tanks of Freedom II](https://github.com/P1X-in/Tanks-of-Freedom-3-D) ⭐ 431 | 🐛 9 | 🌐 GDScript | 📅 2025-10-02 - Free turn-based isometric strategy game in voxel art.
 * [Hurry Curry!](https://hurrycurry.org) - Free & open-source cooperative multiplayer cooking game.
@@ -122,13 +123,14 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support) 
 
 #### Godot 4
 
-* [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) ⭐ 10,464 | 🐛 87 | 🌐 GDScript | 📅 2026-10-02 - 2D pixel art editor.
-* [Lorien](https://github.com/mbrlabs/Lorien) ⭐ 6,836 | 🐛 78 | 🌐 GDScript | 📅 2025-09-22 - Infinite-canvas drawing/whiteboarding app for Windows, Linux and macOS. Supports drawing tablets and pressure sensitivity.
-* [Material Maker](https://github.com/RodZill4/material-maker) ⭐ 5,963 | 🐛 331 | 🌐 GDScript | 📅 2026-10-03 - Create PBR materials procedurally (similar to Substance Designer).
-* [GodSVG](https://github.com/MewPurPur/GodSVG) ⭐ 2,761 | 🐛 56 | 🌐 GDScript | 📅 2026-10-04 - Tool to create optimized Scalable Vector Graphics files.
+* [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) ⭐ 10,467 | 🐛 87 | 🌐 GDScript | 📅 2026-10-06 - 2D pixel art editor.
+* [Lorien](https://github.com/mbrlabs/Lorien) ⭐ 6,837 | 🐛 78 | 🌐 GDScript | 📅 2025-09-22 - Infinite-canvas drawing/whiteboarding app for Windows, Linux and macOS. Supports drawing tablets and pressure sensitivity.
+* [Material Maker](https://github.com/RodZill4/material-maker) ⭐ 5,963 | 🐛 332 | 🌐 GDScript | 📅 2026-10-03 - Create PBR materials procedurally (similar to Substance Designer).
+* [GodSVG](https://github.com/MewPurPur/GodSVG) ⭐ 2,761 | 🐛 57 | 🌐 GDScript | 📅 2026-10-04 - Tool to create optimized Scalable Vector Graphics files.
 * [ProtonGraph](https://github.com/protongraph/protongraph) ⭐ 1,745 | 🐛 31 | 🌐 GDScript | 📅 2023-11-23 - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
 * [Arrow](https://github.com/mhgolkar/Arrow) ⭐ 1,354 | 🐛 7 | 🌐 GDScript | 📅 2025-09-05 - A tool to design game narratives with nodes.
 * [Clipboard Narrator](https://github.com/lesleyrs/clipboard-narrator) ⭐ 68 | 🐛 2 | 🌐 GDScript | 📅 2023-07-07 - Turn any web page into an audiobook, works in the background on desktop!
+* [MSDF Atlas Studio](https://github.com/sachinthankachan/msdf-atlas-studio) ⭐ 4 | 🐛 1 | 🌐 GDScript | 📅 2026-10-05 - High-performance desktop studio for generating multi-channel signed distance field (MSDF) font texture atlases with live shader preview.
 
 #### Godot 3
 
@@ -144,11 +146,11 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support) 
 
 * [Maaack's Game Template](https://github.com/Maaack/Godot-Game-Template) ⭐ 1,682 | 🐛 13 | 🌐 GDScript | 📅 2026-09-10 - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 * [Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate) ⭐ 1,658 | 🐛 1 | 🌐 GDScript | 📅 2026-06-18 - Template with all necessary stuff taken care of. Designed for pixel art games.
-* [First Person Starter](https://github.com/Whimfoome/godot-FirstPersonStarter) ⭐ 1,022 | 🐛 4 | 🌐 GDScript | 📅 2024-05-05 - Template with First Person Controller, easily adjustable from the Inspector.
-* [Crystal Bit Godot Game Template](https://github.com/crystal-bit/godot-game-template) ⭐ 988 | 🐛 10 | 🌐 GDScript | 📅 2026-06-21 - Opinionated game template. It includes continuous integration, scene loading with graphic transitions and game pause handling.
+* [First Person Starter](https://github.com/Whimfoome/godot-FirstPersonStarter) ⭐ 1,023 | 🐛 4 | 🌐 GDScript | 📅 2024-05-05 - Template with First Person Controller, easily adjustable from the Inspector.
+* [Crystal Bit Godot Game Template](https://github.com/crystal-bit/godot-game-template) ⭐ 989 | 🐛 10 | 🌐 GDScript | 📅 2026-06-21 - Opinionated game template. It includes continuous integration, scene loading with graphic transitions and game pause handling.
 * [Takin Godot Template](https://github.com/TinyTakinTeller/TakinGodotTemplate) ⭐ 497 | 🐛 0 | 🌐 GDScript | 📅 2025-10-06 - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
 * [Godot XR Template](https://github.com/godotVR/godot-xr-template) ⭐ 216 | 🐛 5 | 🌐 GDScript | 📅 2026-03-09 - Template for a multi-level XR game.
-* [Godot C# Template](https://github.com/CSharpGodotTools/Template) ⭐ 179 | 🐛 5 | 🌐 C# | 📅 2026-06-28 - Template for C# projects with UI scenes, visual debugging tools, simplified tweens, utility scripts and an ENet multiplayer framework.
+* [Godot C# Template](https://github.com/CSharpGodotTools/Template) ⭐ 180 | 🐛 5 | 🌐 C# | 📅 2026-06-28 - Template for C# projects with UI scenes, visual debugging tools, simplified tweens, utility scripts and an ENet multiplayer framework.
 * [MechanicalFlower Godot Template](https://github.com/MechanicalFlower/godot-template) ⭐ 69 | 🐛 2 | 🌐 GDScript | 📅 2026-07-20 - Template with code formatting, license tracking, addons management and CI/CD.
 * [Godot 4 Custom Gravity](https://github.com/Ivorforce/Godot4-Custom-Gravity) ⭐ 35 | 🐛 0 | 🌐 GDScript | 📅 2025-10-26 - Template for a 3D project with planetary gravity (Super Mario Galaxy-like). Supports any planet shapes using signed distance fields. Includes a character controller and various sample setups.
 * [COGITO](https://codeberg.org/Phazorknight/Cogito) - First Person Immersive Sim Template Project, providing a framework for creating interactable objects, various items to use and mechanics to influence the player and game environment.
@@ -169,8 +171,8 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support) 
 
 #### Godot 4
 
-* [Godot Demo Projects](https://github.com/godotengine/godot-demo-projects) ⭐ 9,620 | 🐛 87 | 🌐 GDScript | 📅 2026-09-28 - Official Godot demo projects (everything except the TPS demo).
-* [OpenRPG](https://github.com/GDquest/godot-open-rpg) ⭐ 3,002 | 🐛 6 | 🌐 GDScript | 📅 2026-05-01 - JRPG-style game demo and template.
+* [Godot Demo Projects](https://github.com/godotengine/godot-demo-projects) ⭐ 9,622 | 🐛 87 | 🌐 GDScript | 📅 2026-09-28 - Official Godot demo projects (everything except the TPS demo).
+* [OpenRPG](https://github.com/GDquest/godot-open-rpg) ⭐ 3,003 | 🐛 6 | 🌐 GDScript | 📅 2026-05-01 - JRPG-style game demo and template.
 * [TPS Demo](https://github.com/godotengine/tps-demo) ⭐ 1,375 | 🐛 18 | 🌐 GDScript | 📅 2026-08-31 - Official Godot third person shooter (TPS) demo with high quality graphics.
 * [Godot experiments](https://github.com/MrEliptik/godot_experiments) ⭐ 1,033 | 🐛 0 | 🌐 GDScript | 📅 2024-12-01 - Several 2D, 3D and VR experiments.
 * [voxelgame](https://github.com/Zylann/voxelgame) ⭐ 771 | 🐛 24 | 🌐 GDScript | 📅 2025-12-04 - Minecraft-like voxel terrain demo, utilising the godot\_voxel module.
@@ -204,32 +206,32 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support) 
 
 #### Godot 4
 
-* [Dialogic](https://github.com/dialogic-godot/dialogic) ⭐ 6,042 | 🐛 185 | 🌐 GDScript | 📅 2026-08-30 - Create dialogs, characters and scenes to display conversations.
+* [Dialogic](https://github.com/dialogic-godot/dialogic) ⭐ 6,046 | 🐛 185 | 🌐 GDScript | 📅 2026-08-30 - Create dialogs, characters and scenes to display conversations.
 * [Terrain3D](https://github.com/TokisanGames/Terrain3D) ⭐ 4,324 | 🐛 91 | 🌐 C++ | 📅 2026-10-03 - A high performance, editable 3D terrain system.
 * [Dialogue Manager](https://github.com/nathanhoad/godot_dialogue_manager) ⭐ 3,896 | 🐛 3 | 🌐 GDScript | 📅 2026-10-02 - A simple but powerful text based branching dialogue editor and runtime. *(Godot 3 and 4)*
-* [Phantom Camera](https://github.com/ramokz/phantom-camera) ⭐ 3,590 | 🐛 66 | 🌐 GDScript | 📅 2026-09-21 - Designed to provide and simplify common behaviors for the built-in Camera2D and Camera3D nodes.
+* [Phantom Camera](https://github.com/ramokz/phantom-camera) ⭐ 3,591 | 🐛 67 | 🌐 GDScript | 📅 2026-09-21 - Designed to provide and simplify common behaviors for the built-in Camera2D and Camera3D nodes.
 * [Beehave](https://github.com/bitbrain/beehave) ⭐ 3,295 | 🐛 28 | 🌐 GDScript | 📅 2026-09-20 - Enables you to create robust NPC AI systems using behavior trees.
 * [LimboAI](https://github.com/limbonaut/limboai) ⭐ 3,041 | 🐛 61 | 🌐 C++ | 📅 2026-10-04 - Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.
-* [ProtonScatter](https://github.com/HungryProton/scatter) ⭐ 3,002 | 🐛 70 | 🌐 GDScript | 📅 2026-09-27 - Automates the positioning of assets in a scene.
-* [GUT](https://github.com/bitwes/Gut) ⭐ 2,748 | 🐛 77 | 🌐 GDScript | 📅 2026-08-18 - Utility for writing unit tests in GDScript.
+* [ProtonScatter](https://github.com/HungryProton/scatter) ⭐ 3,005 | 🐛 70 | 🌐 GDScript | 📅 2026-09-27 - Automates the positioning of assets in a scene.
+* [GUT](https://github.com/bitwes/Gut) ⭐ 2,749 | 🐛 77 | 🌐 GDScript | 📅 2026-08-18 - Utility for writing unit tests in GDScript.
 * [HTerrain](https://github.com/Zylann/godot_heightmap_plugin) ⭐ 2,276 | 🐛 195 | 🌐 GDScript | 📅 2026-07-30 - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass. *(Godot 3 and 4)*
-* [SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) ⭐ 1,753 | 🐛 16 | 🌐 GDScript | 📅 2026-08-07 - A 2D terrain tool. *(Godot 3 and 4)*
+* [SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) ⭐ 1,754 | 🐛 16 | 🌐 GDScript | 📅 2026-08-07 - A 2D terrain tool. *(Godot 3 and 4)*
 * [Maaack's Game Template Plugin](https://github.com/Maaack/Godot-Game-Template) ⭐ 1,682 | 🐛 13 | 🌐 GDScript | 📅 2026-09-10 - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 * [Orchestrator](https://github.com/Vahera/godot-orchestrator) ⭐ 1,628 | 🐛 121 | 🌐 C++ | 📅 2026-10-04 - Dialog and visual-scripting subsystem for 2D and 3D games.
 * [Cyclops Level Builder](https://github.com/blackears/cyclopsLevelBuilder) ⭐ 1,625 | 🐛 89 | 🌐 GDScript | 📅 2026-09-22 - A level builder for quick prototypes and proof-of-concepts.
-* [NobodyWho](https://github.com/nobodywho-ooo/nobodywho) ⭐ 1,522 | 🐛 15 | 🌐 Rust | 📅 2026-10-05 - Local large language models (LLMs) for "AI-powered" NPC dialogue.
+* [NobodyWho](https://github.com/nobodywho-ooo/nobodywho) ⭐ 1,523 | 🐛 14 | 🌐 Rust | 📅 2026-10-06 - Local large language models (LLMs) for "AI-powered" NPC dialogue.
 * [Godot SQLite](https://github.com/2shady4u/godot-sqlite) ⭐ 1,444 | 🐛 41 | 🌐 C++ | 📅 2026-09-19 - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project.
-* [Aseprite Wizard](https://github.com/viniciusgerevini/godot-aseprite-wizard) ⭐ 1,379 | 🐛 28 | 🌐 GDScript | 📅 2026-08-17 - Plugin for importing animations from Aseprite as SpriteFrames.
+* [Aseprite Wizard](https://github.com/viniciusgerevini/godot-aseprite-wizard) ⭐ 1,380 | 🐛 28 | 🌐 GDScript | 📅 2026-08-17 - Plugin for importing animations from Aseprite as SpriteFrames.
 * [TerraBrush](https://github.com/spimort/TerraBrush) ⭐ 1,293 | 🐛 27 | 🌐 C++ | 📅 2026-10-02 - Minimal Terrain heightmap editor that features sculpting, painting textures, LOD, and MultiZones.
-* [GdUnit4](https://github.com/MikeSchulze/gdUnit4) ⭐ 1,249 | 🐛 17 | 🌐 GDScript | 📅 2026-10-05 - Godot Unit Testing Framework.
+* [GdUnit4](https://github.com/MikeSchulze/gdUnit4) ⭐ 1,249 | 🐛 13 | 🌐 GDScript | 📅 2026-10-06 - Godot Unit Testing Framework.
 * [Ridiculous Coding](https://github.com/jotson/ridiculous_coding) ⭐ 1,139 | 🐛 13 | 🌐 GDScript | 📅 2025-09-15 - Makes your coding experience in Godot 1000× more ridiculous.
-* [Netfox](https://github.com/foxssake/netfox) ⭐ 1,112 | 🐛 49 | 🌐 GDScript | 📅 2026-09-26 - Multiplayer timing, rollback and other multiplayer features.
+* [Netfox](https://github.com/foxssake/netfox) ⭐ 1,113 | 🐛 49 | 🌐 GDScript | 📅 2026-09-26 - Multiplayer timing, rollback and other multiplayer features.
 * [Input Helper](https://github.com/nathanhoad/godot_input_helper) ⭐ 1,108 | 🐛 11 | 🌐 GDScript | 📅 2025-06-08 - A helper for detecting input devices and remapping controls. *(Godot 3 and 4)*
-* [Script-IDE](https://github.com/Maran23/script-ide) ⭐ 1,056 | 🐛 10 | 🌐 GDScript | 📅 2026-10-05 - Transforms the script editor into an IDE-like UI. Multiline tabs, improved outline, quick open and override, enhanced keyboard navigation.
+* [Script-IDE](https://github.com/Maran23/script-ide) ⭐ 1,056 | 🐛 9 | 🌐 GDScript | 📅 2026-10-05 - Transforms the script editor into an IDE-like UI. Multiline tabs, improved outline, quick open and override, enhanced keyboard navigation.
 * [Virtual Joystick](https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot) ⭐ 990 | 🐛 17 | 🌐 GDScript | 📅 2025-01-19 - A virtual joystick for touchscreens. Simple to use and with useful options. *(Godot 3 and 4)*
 * [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) ⭐ 940 | 🐛 73 | 🌐 C++ | 📅 2026-06-22 - Plugin to use the FMOD audio engine in GDScript.
-* [func\_godot](https://github.com/func-godot/func_godot_plugin) ⭐ 869 | 🐛 12 | 🌐 GDScript | 📅 2026-09-23 - Import maps using the [Quake MAP file format](https://quakewiki.org/wiki/Quake_Map_Format), commonly made using an editor such as [TrenchBroom](https://trenchbroom.github.io/).
-* [godot-ink](https://github.com/paulloz/godot-ink) ⭐ 786 | 🐛 12 | 🌐 C# | 📅 2026-07-04 - A C# (Mono) plugin to integrate stories writen in [ink](https://github.com/inkle/ink) ⭐ 4,959 | 🐛 371 | 🌐 C# | 📅 2026-05-05, a scripting language for writing interactive narrative.
+* [func\_godot](https://github.com/func-godot/func_godot_plugin) ⭐ 871 | 🐛 12 | 🌐 GDScript | 📅 2026-09-23 - Import maps using the [Quake MAP file format](https://quakewiki.org/wiki/Quake_Map_Format), commonly made using an editor such as [TrenchBroom](https://trenchbroom.github.io/).
+* [godot-ink](https://github.com/paulloz/godot-ink) ⭐ 786 | 🐛 12 | 🌐 C# | 📅 2026-07-04 - A C# (Mono) plugin to integrate stories writen in [ink](https://github.com/inkle/ink) ⭐ 4,961 | 🐛 371 | 🌐 C# | 📅 2026-05-05, a scripting language for writing interactive narrative.
 * [friflo ECS](https://github.com/friflo/Friflo.Engine.ECS) ⭐ 782 | 🐛 41 | 🌐 C# | 📅 2026-09-25 - High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Godot, Unity, MonoGame, ... *(Godot 3 and 4)*
 * [Godot XR Tools](https://github.com/godotvr/godot-xr-tools) ⭐ 735 | 🐛 127 | 🌐 GDScript | 📅 2026-08-02 - Basic components for XR development.
 * [SignalVisualizer](https://github.com/Ericdowney/SignalVisualizer) ⭐ 689 | 🐛 7 | 🌐 GDScript | 📅 2026-07-23 - Displays the current scene's signals and connections in a easy to read graph and tree dock.
@@ -253,12 +255,12 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support) 
 * [ThemeGen](https://github.com/Inspiaaa/ThemeGen) ⭐ 263 | 🐛 5 | 🌐 GDScript | 📅 2026-05-02 - Easily create themes using GDScript code, allowing you to reuse styles, recombine them, and effortlessly reuse and share colours between components.
 * [Questify](https://github.com/TheWalruzz/godot-questify) ⭐ 254 | 🐛 4 | 🌐 GDScript | 📅 2026-03-07 - A graph-based quest editor and manager.
 * [Talo](https://github.com/TaloDev/godot) ⭐ 244 | 🐛 1 | 🌐 GDScript | 📅 2026-10-04 - A self-hostable game backend for managing players, leaderboards, stats, saving/loading data and more.
-* [AnimatedShape2D](https://github.com/Goutte/godot-addon-animated-shape-2d) ⭐ 231 | 🐛 6 | 🌐 GDScript | 📅 2024-03-12 - Animate a CollisionShape2D along with the frames of an AnimatedSprite2D.
+* [AnimatedShape2D](https://github.com/Goutte/godot-addon-animated-shape-2d) ⭐ 232 | 🐛 6 | 🌐 GDScript | 📅 2024-03-12 - Animate a CollisionShape2D along with the frames of an AnimatedSprite2D.
 * [AntialiasedLine2D](https://github.com/godot-extended-libraries/godot-antialiased-line2d) ⭐ 196 | 🐛 5 | 🌐 GDScript | 📅 2026-06-07 - Higher-quality antialiased Line2D and Polygon2D drawing compared to the default Godot implementation (all rendering methods, all platforms).
 * [Quest Manager](https://github.com/Rubonnek/quest-manager) ⭐ 193 | 🐛 0 | 🌐 GDScript | 📅 2026-06-07 - Minimalistic quest manager able to track quest state at runtime for easier debugging.
 * [PixelPen](https://github.com/pixelpen-dev/pixelpen) ⭐ 180 | 🐛 0 | 🌐 GDScript | 📅 2026-08-13 - Pixel art drawing and animation: Common drawing tools such as selection, shape creation, mirroring, tiling, and animation features within the Godot editor.
 * [Health, HitBoxes, HurtBoxes, and HitScans](https://github.com/cluttered-code/godot-health-hitbox-hurtbox) ⭐ 173 | 🐛 0 | 🌐 GDScript | 📅 2026-07-22 - 2D and 3D Components to manage health, damage, and healing.
-* [Sprouty Dialogs](https://github.com/SproutyLabs/SproutyDialogs) ⭐ 170 | 🐛 6 | 🌐 GDScript | 📅 2026-09-22 - A graph-based visual dialogue system, to create dialogues in your games incredibly easy! 🌱
+* [Sprouty Dialogs](https://github.com/SproutyLabs/SproutyDialogs) ⭐ 171 | 🐛 6 | 🌐 GDScript | 📅 2026-09-22 - A graph-based visual dialogue system, to create dialogues in your games incredibly easy! 🌱
 * [godot-playfab](https://github.com/Structed/godot-playfab) ⭐ 169 | 🐛 24 | 🌐 GDScript | 📅 2026-06-18 - Use PlayFab as your game's cross-platform backend, with easy analytics.
 * [Godot Doctor](https://github.com/codevogel/godot_doctor) ⭐ 165 | 🐛 1 | 🌐 GDScript | 📅 2026-08-01 - A powerful validation plugin for Godot that catches errors in scenes and resources before they reach runtime. Also supports type validation for `PackedScene`s.
 * [Juicee](https://github.com/Kelpekk/Juicee) ⭐ 149 | 🐛 1 | 🌐 GDScript | 📅 2026-09-20 - game-feel effects (screen shake, hit stop, camera effects and more) with a visual graph editor, inspector UI, and one-liner API. Inspired by Unity's FEEL.
@@ -271,7 +273,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support) 
 * [Gedis](https://github.com/NodotProject/Gedis) ⭐ 107 | 🐛 2 | 🌐 GDScript | 📅 2026-08-16 - In-memory, Redis-like key-value store for Godot.
 * [GodotSx](https://github.com/TheWalruzz/godot-sx) ⭐ 100 | 🐛 1 | 🌐 GDScript | 📅 2026-07-03 - Rx-like extensions for Godot's built-in signals.
 * [3D Auto Collision Generator](https://github.com/ThGnommy/godot_3d_auto_collision_generator) ⭐ 98 | 🐛 1 | 🌐 GDScript | 📅 2025-10-06 - Generate collision for multiple 3D objects in one click.
-* [AgonesSDK](https://github.com/AndreMicheletti/godot-agones-sdk) ⭐ 88 | 🐛 0 | 🌐 GDScript | 📅 2026-06-09 - Plugin to add [Agones](https://github.com/googleforgames/agones) ⭐ 7,057 | 🐛 58 | 🌐 Go | 📅 2026-10-04 SDK functionality to Godot.
+* [AgonesSDK](https://github.com/AndreMicheletti/godot-agones-sdk) ⭐ 88 | 🐛 0 | 🌐 GDScript | 📅 2026-06-09 - Plugin to add [Agones](https://github.com/googleforgames/agones) ⭐ 7,058 | 🐛 57 | 🌐 Go | 📅 2026-10-05 SDK functionality to Godot.
 * [Godot NDI](https://github.com/unvermuthet/godot-ndi) ⭐ 76 | 🐛 4 | 🌐 C++ | 📅 2026-09-26 - Integrates the NDI® SDK with Godot.
 * [Inventory Manager](https://github.com/Rubonnek/inventory-manager) ⭐ 76 | 🐛 0 | 🌐 GDScript | 📅 2026-06-05 - Minimalistic inventory manager for easily adding and removing items with variable stack sizes and stack count limits.
 * [Maaack's Scene Loader](https://github.com/Maaack/Godot-Scene-Loader) ⭐ 72 | 🐛 1 | 🌐 GDScript | 📅 2026-09-09 - Scene loader that includes a loading screen, progress bar, and error handling.
@@ -364,7 +366,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support) 
 
 #### Godot version unknown
 
-* [Godot Shaders](https://github.com/GDQuest/godot-shaders) ⭐ 4,148 | 🐛 6 | 🌐 GDShader | 📅 2026-05-16 - A large library of free and open-source shaders for 2D and 3D.
+* [Godot Shaders](https://github.com/GDQuest/godot-shaders) ⭐ 4,149 | 🐛 6 | 🌐 GDShader | 📅 2026-05-16 - A large library of free and open-source shaders for 2D and 3D.
 * [Godot Game Tools](https://github.com/vini-guerrero/Godot_Game_Tools) ⭐ 394 | 🐛 30 | 🌐 Python | 📅 2022-08-01 - Blender plugin to ease importing assets into Godot.
 * [GDSerCommPlugin](https://github.com/NangiDev/GDSerCommPlugin) ⭐ 108 | 🐛 0 | 🌐 C++ | 📅 2025-10-01 - A plugin to read Arduino serial input (needs custom engine modules).
 * [gdutils](https://github.com/GodotExplorer/gdutils) ⭐ 101 | 🐛 1 | 🌐 GDScript | 📅 2019-07-02 - Utilities for Godot written in GDScript.
@@ -381,13 +383,13 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support) 
 
 #### Godot 4
 
-* [godot-voxel](https://github.com/Zylann/godot_voxel) ⭐ 3,923 | 🐛 251 | 🌐 C++ | 📅 2026-10-01 - Module for creating volumetric worlds.
+* [godot-voxel](https://github.com/Zylann/godot_voxel) ⭐ 3,926 | 🐛 251 | 🌐 C++ | 📅 2026-10-01 - Module for creating volumetric worlds.
 * [GodotSteam](https://github.com/Gramps/GodotSteam) ⚠️ Archived - Steam API library binding for Godot. Supports Windows, macOS and Linux.
-* [godot-jolt](https://github.com/godot-jolt/godot-jolt) ⭐ 2,572 | 🐛 6 | 🌐 C++ | 📅 2026-03-16 - Allows you to use the [Jolt Physics Engine](https://github.com/jrouwe/JoltPhysics) ⭐ 11,661 | 🐛 13 | 🌐 C++ | 📅 2026-10-04.
+* [godot-jolt](https://github.com/godot-jolt/godot-jolt) ⭐ 2,572 | 🐛 6 | 🌐 C++ | 📅 2026-03-16 - Allows you to use the [Jolt Physics Engine](https://github.com/jrouwe/JoltPhysics) ⭐ 11,669 | 🐛 14 | 🌐 C++ | 📅 2026-10-04.
 * [Godex](https://github.com/GodotECS/godex) ⭐ 1,423 | 🐛 26 | 🌐 C++ | 📅 2023-09-18 - An entity component system library.
-* [godot-rapier-2d](https://github.com/appsinacup/godot-rapier-2d) ⭐ 1,016 | 🐛 24 | 🌐 Rust | 📅 2026-10-02 - A 2D [Rapier](https://github.com/dimforge/rapier) ⭐ 5,819 | 🐛 66 | 🌐 Rust | 📅 2026-09-27 physics server for Godot.
+* [godot-rapier-2d](https://github.com/appsinacup/godot-rapier-2d) ⭐ 1,016 | 🐛 24 | 🌐 Rust | 📅 2026-10-02 - A 2D [Rapier](https://github.com/dimforge/rapier) ⭐ 5,824 | 🐛 66 | 🌐 Rust | 📅 2026-10-06 physics server for Godot.
 * [godot-luaAPI](https://github.com/WeaselGames/godot_luaAPI) ⚠️ Archived - Module for creating sandboxed modding APIs with Lua. *(Godot 3 and 4)*
-* [Tree3D](https://github.com/JekSun97/gdTree3D) ⭐ 374 | 🐛 5 | 🌐 C++ | 📅 2026-09-13 - A plugin for procedural generation of 3D trees in real time for gaming projects.
+* [Tree3D](https://github.com/JekSun97/gdTree3D) ⭐ 375 | 🐛 5 | 🌐 C++ | 📅 2026-09-13 - A plugin for procedural generation of 3D trees in real time for gaming projects.
 * [Entity Spell System](https://github.com/Relintai/entity_spell_system) ⭐ 203 | 🐛 0 | 🌐 C++ | 📅 2023-01-09 - An entity and spell system for complex (optionally multiplayer) RPGs. *(Godot 3 and 4)*
 * [Voxelman](https://github.com/Relintai/voxelman) ⭐ 112 | 🐛 1 | 🌐 C++ | 📅 2023-01-09 - A voxel engine with more focus on editor integration, gameplay-related features, and extendability. *(Godot 3 and 4)*
 * [spout-gd](https://github.com/you-win/spout-gd) ⭐ 86 | 🐛 14 | 🌐 C++ | 📅 2025-12-24 - Share OpenGL textures across Windows applications through your GPU using [Spout](https://github.com/leadedge/Spout2) ⭐ 1,011 | 🐛 0 | 🌐 C++ | 📅 2026-09-30.
@@ -427,7 +429,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support) 
 *Add-ons for text editors that implement GDScript or C# support.*
 
 * [Vim](https://github.com/habamax/vim-godot) ⭐ 586 | 🐛 6 | 🌐 Vim Script | 📅 2025-12-15 - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
-* [JetBrains Rider (C#)](https://github.com/JetBrains/godot-support) ⭐ 505 | 🐛 26 | 🌐 Kotlin | 📅 2026-10-05 - Syntax highlighting, autocompletion and run configurations.
+* [JetBrains Rider (C#)](https://github.com/JetBrains/godot-support) ⭐ 505 | 🐛 26 | 🌐 Kotlin | 📅 2026-10-06 - Syntax highlighting, autocompletion and run configurations.
 * [Emacs](https://github.com/godotengine/emacs-gdscript-mode) ⭐ 403 | 🐛 17 | 🌐 Emacs Lisp | 📅 2026-09-28 - Syntax highlighting, code folding, indentation and autocompletion.
 * [Zed](https://github.com/GDQuest/zed-gdscript) ⭐ 209 | 🐛 18 | 🌐 Tree-sitter Query | 📅 2026-09-10 - Syntax highlighting, autocompletion, LSP (jump-to-definition, hover, references, linting), code formatting, and debugging. Supports 3.x and 4.x.
 * [IntelliJ IDEA](https://github.com/exigow/intellij-gdscript) ⭐ 148 | 🐛 26 | 🌐 Kotlin | 📅 2023-08-20 - Syntax highlighting and autocompletion.
@@ -497,10 +499,10 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support) 
 
 * [zfoo](https://github.com/zfoo-project/zfoo) ⭐ 2,013 | 🐛 19 | 🌐 Java | 📅 2026-05-29 - Java game server framework for Godot, including GDScript serialization and deserialization.
 * [godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) ⭐ 1,617 | 🐛 51 | 🌐 Python | 📅 2025-10-09 - Independent set of command line tools for working with GDScript - parser, linter and formatter.
-* [godot-ci](https://github.com/aBARICHELLO/godot-ci) ⭐ 1,135 | 🐛 45 | 🌐 Dockerfile | 📅 2026-08-18 - Docker image to export Godot games through CI. Includes GitLab CI script example.
-* [ShipThis](https://github.com/shipth-is/cli) ⭐ 293 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-02 - CLI to build and publish Godot mobile games to the App Store and Google Play.
+* [godot-ci](https://github.com/aBARICHELLO/godot-ci) ⭐ 1,135 | 🐛 43 | 🌐 Dockerfile | 📅 2026-10-05 - Docker image to export Godot games through CI. Includes GitLab CI script example.
+* [ShipThis](https://github.com/shipth-is/cli) ⭐ 293 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-02 - CLI to build and publish Godot mobile games to the App Store and Google Play.
 * [RetroPie Godot Game Engine "Emulator"](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) ⭐ 109 | 🐛 4 | 🌐 Shell | 📅 2023-07-09 - A scriptmodule to install a Godot "emulator" for RetroPie.
-* [gdvm](https://gdvm.io) ([GitHub](https://github.com/adalinesimonian/gdvm) ⭐ 103 | 🐛 6 | 🌐 Rust | 📅 2026-10-02) - Command-line version manager for Godot Engine, allowing you to easily install and switch between different Godot versions on Windows, macOS, and Linux (x86, x86\_64, and ARM64).
+* [gdvm](https://gdvm.io) ([GitHub](https://github.com/adalinesimonian/gdvm) ⭐ 102 | 🐛 6 | 🌐 Rust | 📅 2026-10-02) - Command-line version manager for Godot Engine, allowing you to easily install and switch between different Godot versions on Windows, macOS, and Linux (x86, x86\_64, and ARM64).
 * [gd2cs.py](https://github.com/kiriri/gd2cs.py) ⭐ 99 | 🐛 2 | 🌐 Python | 📅 2023-12-11 - Python script that converts GDScript code to C# (WIP).
 * [codetranslator](https://github.com/HaSa1002/codetranslator) ⭐ 58 | 🐛 2 | 🌐 GDScript | 📅 2021-03-23 - Translates GDScript to C# (WIP).
 * [godot-actions](https://github.com/bend-n/godot-actions) ⭐ 38 | 🐛 2 | 📅 2026-02-14 - Composite actions for exporting, setting up, and pushing Godot projects to itch.io through Github Actions.
@@ -513,4 +515,4 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
