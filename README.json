@@ -51,7 +51,7 @@
                     "open_issues": 0,
                     "owner": "max99x",
                     "repo": "wutw-public",
-                    "stars": 244,
+                    "stars": 245,
                     "topics": []
                   },
                   "first_seen": "2026-09-13T13:47:09.448Z"
@@ -72,7 +72,7 @@
                     "open_issues": 10,
                     "owner": "TinyTakinTeller",
                     "repo": "GodotProjectZero",
-                    "stars": 210,
+                    "stars": 211,
                     "topics": [
                       "clicker-game",
                       "desktop-app",
@@ -792,11 +792,11 @@
                     "id": 5616877,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-23T13:16:58Z",
-                    "open_issues": 540,
+                    "last_commit": "2026-10-24T08:53:13Z",
+                    "open_issues": 541,
                     "owner": "Revolutionary-Games",
                     "repo": "Thrive",
-                    "stars": 3782,
+                    "stars": 3784,
                     "topics": [
                       "biology",
                       "csharp",
@@ -829,7 +829,7 @@
                     "open_issues": 16,
                     "owner": "Quaint-Studios",
                     "repo": "Reia",
-                    "stars": 980,
+                    "stars": 981,
                     "topics": [
                       "3d",
                       "3d-game",
@@ -870,7 +870,7 @@
                     "open_issues": 11,
                     "owner": "openfw-game",
                     "repo": "OpenLiberty",
-                    "stars": 476,
+                    "stars": 477,
                     "topics": [
                       "cross-platform",
                       "foss",
@@ -903,7 +903,7 @@
                     "open_issues": 9,
                     "owner": "P1X-in",
                     "repo": "tanks-of-freedom-ii",
-                    "stars": 431,
+                    "stars": 432,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:49:50.226Z"
@@ -1168,10 +1168,10 @@
                 "language": "GDScript",
                 "license": "MIT",
                 "last_commit": "2026-10-23T02:14:04Z",
-                "open_issues": 81,
+                "open_issues": 85,
                 "owner": "Orama-Interactive",
                 "repo": "Pixelorama",
-                "stars": 10792,
+                "stars": 10812,
                 "topics": [
                   "animation",
                   "art",
@@ -1213,7 +1213,7 @@
                 "open_issues": 79,
                 "owner": "mbrlabs",
                 "repo": "Lorien",
-                "stars": 6862,
+                "stars": 6861,
                 "topics": [
                   "drawing-app",
                   "godot-engine",
@@ -1238,11 +1238,11 @@
                 "id": 141905920,
                 "language": "GDScript",
                 "license": "MIT",
-                "last_commit": "2026-10-22T19:13:00Z",
-                "open_issues": 294,
+                "last_commit": "2026-10-24T07:32:07Z",
+                "open_issues": 295,
                 "owner": "RodZill4",
                 "repo": "material-maker",
-                "stars": 6015,
+                "stars": 6016,
                 "topics": [
                   "glsl",
                   "godot-engine",
@@ -1268,7 +1268,7 @@
                 "id": 654900909,
                 "language": "GDScript",
                 "license": "MIT",
-                "last_commit": "2026-10-22T10:48:58Z",
+                "last_commit": "2026-10-24T08:01:07Z",
                 "open_issues": 56,
                 "owner": "MewPurPur",
                 "repo": "GodSVG",
@@ -1522,7 +1522,7 @@
                 "open_issues": 14,
                 "owner": "Maaack",
                 "repo": "Godot-Game-Template",
-                "stars": 1704,
+                "stars": 1706,
                 "topics": [
                   "game-development",
                   "godot",
@@ -1610,7 +1610,7 @@
                 "open_issues": 10,
                 "owner": "crystal-bit",
                 "repo": "godot-game-template",
-                "stars": 992,
+                "stars": 993,
                 "topics": [
                   "game-template",
                   "godot",
@@ -1674,7 +1674,7 @@
                 "open_issues": 4,
                 "owner": "GodotVR",
                 "repo": "godot-xr-template",
-                "stars": 219,
+                "stars": 220,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:50.226Z"
@@ -1972,7 +1972,7 @@
                 "open_issues": 87,
                 "owner": "godotengine",
                 "repo": "godot-demo-projects",
-                "stars": 9697,
+                "stars": 9703,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:50.226Z"
@@ -2025,7 +2025,7 @@
                 "open_issues": 18,
                 "owner": "godotengine",
                 "repo": "tps-demo",
-                "stars": 1386,
+                "stars": 1389,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:50.226Z"
@@ -2372,10 +2372,10 @@
                 "language": "GDScript",
                 "license": "MIT",
                 "last_commit": "2026-08-30T13:29:27Z",
-                "open_issues": 191,
+                "open_issues": 192,
                 "owner": "dialogic-godot",
                 "repo": "dialogic",
-                "stars": 6108,
+                "stars": 6112,
                 "topics": [
                   "addon",
                   "dialogic",
@@ -2402,11 +2402,11 @@
                 "id": 591945410,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-23T10:46:51Z",
+                "last_commit": "2026-10-24T11:37:37Z",
                 "open_issues": 95,
                 "owner": "TokisanGames",
                 "repo": "Terrain3D",
-                "stars": 4415,
+                "stars": 4420,
                 "topics": [
                   "game-development",
                   "gamedev",
@@ -2439,10 +2439,10 @@
                 "language": "GDScript",
                 "license": "MIT",
                 "last_commit": "2026-10-17T09:29:01Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "nathanhoad",
                 "repo": "godot_dialogue_manager",
-                "stars": 3939,
+                "stars": 3943,
                 "topics": [
                   "addon",
                   "csharp",
@@ -2473,7 +2473,7 @@
                 "open_issues": 66,
                 "owner": "ramokz",
                 "repo": "phantom-camera",
-                "stars": 3630,
+                "stars": 3633,
                 "topics": [
                   "addon",
                   "camera",
@@ -2502,7 +2502,7 @@
                 "open_issues": 28,
                 "owner": "bitbrain",
                 "repo": "beehave",
-                "stars": 3307,
+                "stars": 3309,
                 "topics": [
                   "ai",
                   "behavior-tree",
@@ -2533,7 +2533,7 @@
                 "open_issues": 62,
                 "owner": "limbonaut",
                 "repo": "limboai",
-                "stars": 3087,
+                "stars": 3088,
                 "topics": [
                   "artificial-intelligence",
                   "behavior-tree",
@@ -2582,7 +2582,7 @@
                 "open_issues": 81,
                 "owner": "bitwes",
                 "repo": "Gut",
-                "stars": 2767,
+                "stars": 2768,
                 "topics": [
                   "godot",
                   "godot-engine",
@@ -2658,7 +2658,7 @@
                 "open_issues": 14,
                 "owner": "Maaack",
                 "repo": "Godot-Game-Template",
-                "stars": 1704,
+                "stars": 1706,
                 "topics": [
                   "game-development",
                   "godot",
@@ -2667,6 +2667,48 @@
                   "godot-template",
                   "godot4",
                   "template-project"
+                ]
+              },
+              "first_seen": "2026-08-28T20:49:50.226Z"
+            },
+            {
+              "node_type": "item",
+              "title": "NobodyWho",
+              "description": "Local large language models (LLMs) for \"AI-powered\" NPC dialogue.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "NobodyWho is an inference engine that lets you run LLMs locally and efficiently on any device.  ",
+                "homepage": "https://nobodywho.ai",
+                "id": 851630314,
+                "language": "Rust",
+                "license": "EUPL-1.2",
+                "last_commit": "2026-10-24T13:07:20Z",
+                "open_issues": 17,
+                "owner": "nobodywho-ooo",
+                "repo": "nobodywho",
+                "stars": 1641,
+                "topics": [
+                  "ai",
+                  "expo",
+                  "flutter",
+                  "gguf",
+                  "godot",
+                  "godot-engine",
+                  "godot-plugin",
+                  "godot4",
+                  "inference-engine",
+                  "kotlin",
+                  "llm",
+                  "local-llm",
+                  "on-device-ai",
+                  "python",
+                  "python-llm",
+                  "react-native",
+                  "slm",
+                  "stt",
+                  "swift",
+                  "tts"
                 ]
               },
               "first_seen": "2026-08-28T20:49:50.226Z"
@@ -2700,48 +2742,6 @@
             },
             {
               "node_type": "item",
-              "title": "NobodyWho",
-              "description": "Local large language models (LLMs) for \"AI-powered\" NPC dialogue.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "NobodyWho is an inference engine that lets you run LLMs locally and efficiently on any device.  ",
-                "homepage": "https://nobodywho.ai",
-                "id": 851630314,
-                "language": "Rust",
-                "license": "EUPL-1.2",
-                "last_commit": "2026-10-22T22:06:45Z",
-                "open_issues": 18,
-                "owner": "nobodywho-ooo",
-                "repo": "nobodywho",
-                "stars": 1636,
-                "topics": [
-                  "ai",
-                  "expo",
-                  "flutter",
-                  "gguf",
-                  "godot",
-                  "godot-engine",
-                  "godot-plugin",
-                  "godot4",
-                  "inference-engine",
-                  "kotlin",
-                  "llm",
-                  "local-llm",
-                  "on-device-ai",
-                  "python",
-                  "python-llm",
-                  "react-native",
-                  "slm",
-                  "stt",
-                  "swift",
-                  "tts"
-                ]
-              },
-              "first_seen": "2026-08-28T20:49:50.226Z"
-            },
-            {
-              "node_type": "item",
               "title": "Cyclops Level Builder",
               "description": "A level builder for quick prototypes and proof-of-concepts.",
               "children": [],
@@ -2752,11 +2752,11 @@
                 "id": 610605391,
                 "language": "GDScript",
                 "license": "MIT",
-                "last_commit": "2026-10-17T05:07:23Z",
+                "last_commit": "2026-10-24T08:14:23Z",
                 "open_issues": 86,
                 "owner": "blackears",
                 "repo": "cyclopsLevelBuilder",
-                "stars": 1635,
+                "stars": 1636,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:50.226Z"
@@ -2903,10 +2903,10 @@
                 "language": "GDScript",
                 "license": "MIT",
                 "last_commit": "2026-09-26T13:55:32Z",
-                "open_issues": 52,
+                "open_issues": 53,
                 "owner": "foxssake",
                 "repo": "netfox",
-                "stars": 1118,
+                "stars": 1119,
                 "topics": [
                   "godot",
                   "godot-engine",
@@ -2933,7 +2933,7 @@
                 "open_issues": 12,
                 "owner": "nathanhoad",
                 "repo": "godot_input_helper",
-                "stars": 1111,
+                "stars": 1112,
                 "topics": [
                   "addon",
                   "csharp",
@@ -3016,7 +3016,7 @@
                 "open_issues": 73,
                 "owner": "utopia-rise",
                 "repo": "fmod-gdextension",
-                "stars": 945,
+                "stars": 946,
                 "topics": [
                   "fmod",
                   "fmod-api",
@@ -3048,7 +3048,7 @@
                 "open_issues": 11,
                 "owner": "func-godot",
                 "repo": "func_godot_plugin",
-                "stars": 881,
+                "stars": 882,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:50.226Z"
@@ -3069,7 +3069,7 @@
                 "open_issues": 42,
                 "owner": "friflo",
                 "repo": "Friflo.Engine.ECS",
-                "stars": 796,
+                "stars": 798,
                 "topics": [
                   "csharp",
                   "data-oriented",
@@ -3381,7 +3381,7 @@
                 "language": "GDScript",
                 "license": "MIT",
                 "last_commit": "2026-10-17T13:45:40Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "H2xDev",
                 "repo": "GodotVMF",
                 "stars": 417,
@@ -3416,7 +3416,7 @@
                 "open_issues": 1,
                 "owner": "SoloByte",
                 "repo": "godot-polygon2d-fracture",
-                "stars": 414,
+                "stars": 415,
                 "topics": [
                   "cut-fracture",
                   "fracturing-polygons",
@@ -3500,7 +3500,7 @@
                 "language": "GDScript",
                 "license": "MIT",
                 "last_commit": "2026-07-25T12:10:02Z",
-                "open_issues": 6,
+                "open_issues": 5,
                 "owner": "yannlemos",
                 "repo": "Signal-Lens",
                 "stars": 355,
@@ -3632,7 +3632,7 @@
                 "open_issues": 14,
                 "owner": "godot-sdk-integrations",
                 "repo": "godot-play-game-services",
-                "stars": 280,
+                "stars": 281,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:50.226Z"
@@ -3834,6 +3834,27 @@
             },
             {
               "node_type": "item",
+              "title": "Health, HitBoxes, HurtBoxes, and HitScans",
+              "description": "2D and 3D Components to manage health, damage, and healing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Godot 2D and 3D Components to manage health, damage, and healing",
+                "homepage": null,
+                "id": 668537523,
+                "language": "GDScript",
+                "license": "MIT",
+                "last_commit": "2026-07-22T18:07:09Z",
+                "open_issues": 0,
+                "owner": "cluttered-code",
+                "repo": "godot-health-hitbox-hurtbox",
+                "stars": 174,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:49:50.226Z"
+            },
+            {
+              "node_type": "item",
               "title": "Sprouty Dialogs",
               "description": "A graph-based visual dialogue system, to create dialogues in your games incredibly easy! 🌱",
               "children": [],
@@ -3861,27 +3882,6 @@
                   "plugin",
                   "sprouty"
                 ]
-              },
-              "first_seen": "2026-08-28T20:49:50.226Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Health, HitBoxes, HurtBoxes, and HitScans",
-              "description": "2D and 3D Components to manage health, damage, and healing.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Godot 2D and 3D Components to manage health, damage, and healing",
-                "homepage": null,
-                "id": 668537523,
-                "language": "GDScript",
-                "license": "MIT",
-                "last_commit": "2026-07-22T18:07:09Z",
-                "open_issues": 0,
-                "owner": "cluttered-code",
-                "repo": "godot-health-hitbox-hurtbox",
-                "stars": 173,
-                "topics": []
               },
               "first_seen": "2026-08-28T20:49:50.226Z"
             },
@@ -3951,7 +3951,7 @@
                 "open_issues": 1,
                 "owner": "Kelpekk",
                 "repo": "Juicee",
-                "stars": 160,
+                "stars": 162,
                 "topics": [
                   "addon",
                   "feel",
@@ -4248,7 +4248,7 @@
                 "language": "C++",
                 "license": "MPL-2.0",
                 "last_commit": "2026-09-26T21:10:24Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "unvermuthet",
                 "repo": "godot-ndi",
                 "stars": 76,
@@ -4309,7 +4309,7 @@
                 "open_issues": 0,
                 "owner": "bbbscarter",
                 "repo": "event-audio-godot",
-                "stars": 72,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:50.226Z"
@@ -4706,7 +4706,7 @@
                 "open_issues": 7,
                 "owner": "Arnklit",
                 "repo": "Waterways",
-                "stars": 1336,
+                "stars": 1337,
                 "topics": [
                   "flowmap",
                   "godot",
@@ -6197,7 +6197,7 @@
                 "open_issues": 251,
                 "owner": "Zylann",
                 "repo": "godot_voxel",
-                "stars": 3956,
+                "stars": 3957,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:50.226Z"
@@ -6247,7 +6247,7 @@
                 "open_issues": 6,
                 "owner": "godot-jolt",
                 "repo": "godot-jolt",
-                "stars": 2602,
+                "stars": 2605,
                 "topics": [
                   "game-development",
                   "gamedev",
@@ -7104,11 +7104,11 @@
             "id": 242981223,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T10:03:46Z",
+            "last_commit": "2026-10-24T06:54:42Z",
             "open_issues": 18,
             "owner": "JetBrains",
             "repo": "godot-support",
-            "stars": 510,
+            "stars": 509,
             "topics": [
               "addon",
               "dotnet",
@@ -8082,7 +8082,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T14:12:15.296Z",
+    "last_updated": "2026-10-24T13:17:16.094Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free/libre plugins, scripts and add-ons for Godot",
@@ -8091,10 +8091,10 @@
       "language": null,
       "license": "CC-BY-4.0",
       "last_commit": "2026-10-05T19:01:15Z",
-      "open_issues": 86,
+      "open_issues": 87,
       "owner": "Calinou",
       "repo": "awesome-godot",
-      "stars": 10901,
+      "stars": 10902,
       "topics": [
         "awesome",
         "awesome-list",
