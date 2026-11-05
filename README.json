@@ -792,11 +792,11 @@
                     "id": 5616877,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-04T15:48:29Z",
+                    "last_commit": "2026-11-05T15:11:30Z",
                     "open_issues": 537,
                     "owner": "Revolutionary-Games",
                     "repo": "Thrive",
-                    "stars": 3810,
+                    "stars": 3811,
                     "topics": [
                       "biology",
                       "csharp",
@@ -829,7 +829,7 @@
                     "open_issues": 16,
                     "owner": "Quaint-Studios",
                     "repo": "Reia",
-                    "stars": 986,
+                    "stars": 988,
                     "topics": [
                       "3d",
                       "3d-game",
@@ -870,7 +870,7 @@
                     "open_issues": 11,
                     "owner": "openfw-game",
                     "repo": "OpenLiberty",
-                    "stars": 484,
+                    "stars": 485,
                     "topics": [
                       "cross-platform",
                       "foss",
@@ -899,7 +899,7 @@
                     "id": 176313244,
                     "language": "GDScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-04T16:27:09Z",
+                    "last_commit": "2026-11-04T17:11:21Z",
                     "open_issues": 9,
                     "owner": "P1X-in",
                     "repo": "tanks-of-freedom-ii",
@@ -1168,10 +1168,10 @@
                 "language": "GDScript",
                 "license": "MIT",
                 "last_commit": "2026-11-04T13:32:31Z",
-                "open_issues": 86,
+                "open_issues": 88,
                 "owner": "Orama-Interactive",
                 "repo": "Pixelorama",
-                "stars": 10980,
+                "stars": 10996,
                 "topics": [
                   "animation",
                   "art",
@@ -1213,7 +1213,7 @@
                 "open_issues": 79,
                 "owner": "mbrlabs",
                 "repo": "Lorien",
-                "stars": 6871,
+                "stars": 6875,
                 "topics": [
                   "drawing-app",
                   "godot-engine",
@@ -1242,7 +1242,7 @@
                 "open_issues": 309,
                 "owner": "RodZill4",
                 "repo": "material-maker",
-                "stars": 6212,
+                "stars": 6218,
                 "topics": [
                   "glsl",
                   "godot-engine",
@@ -1272,7 +1272,7 @@
                 "open_issues": 57,
                 "owner": "MewPurPur",
                 "repo": "GodSVG",
-                "stars": 2790,
+                "stars": 2791,
                 "topics": [
                   "blue-fox",
                   "gdscript",
@@ -1332,7 +1332,7 @@
                 "open_issues": 7,
                 "owner": "mhgolkar",
                 "repo": "Arrow",
-                "stars": 1370,
+                "stars": 1371,
                 "topics": [
                   "game-design",
                   "game-development",
@@ -1483,7 +1483,7 @@
                 "open_issues": 45,
                 "owner": "virtual-puppet-project",
                 "repo": "vpuppr",
-                "stars": 809,
+                "stars": 810,
                 "topics": [
                   "facetracker",
                   "godot",
@@ -1522,7 +1522,7 @@
                 "open_issues": 14,
                 "owner": "Maaack",
                 "repo": "Godot-Game-Template",
-                "stars": 1722,
+                "stars": 1723,
                 "topics": [
                   "game-development",
                   "godot",
@@ -1582,7 +1582,7 @@
                 "open_issues": 4,
                 "owner": "Whimfoome",
                 "repo": "godot-FirstPersonStarter",
-                "stars": 1035,
+                "stars": 1036,
                 "topics": [
                   "fps-template",
                   "gamedev",
@@ -1993,7 +1993,7 @@
                 "open_issues": 4,
                 "owner": "gdquest-demos",
                 "repo": "godot-open-rpg",
-                "stars": 3045,
+                "stars": 3046,
                 "topics": [
                   "combat",
                   "game",
@@ -2025,7 +2025,7 @@
                 "open_issues": 18,
                 "owner": "godotengine",
                 "repo": "tps-demo",
-                "stars": 1390,
+                "stars": 1391,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:50.226Z"
@@ -2372,10 +2372,10 @@
                 "language": "GDScript",
                 "license": "MIT",
                 "last_commit": "2026-08-30T13:29:27Z",
-                "open_issues": 193,
+                "open_issues": 195,
                 "owner": "dialogic-godot",
                 "repo": "dialogic",
-                "stars": 6146,
+                "stars": 6148,
                 "topics": [
                   "addon",
                   "dialogic",
@@ -2406,7 +2406,7 @@
                 "open_issues": 91,
                 "owner": "TokisanGames",
                 "repo": "Terrain3D",
-                "stars": 4712,
+                "stars": 4719,
                 "topics": [
                   "game-development",
                   "gamedev",
@@ -2439,10 +2439,10 @@
                 "language": "GDScript",
                 "license": "MIT",
                 "last_commit": "2026-11-03T08:50:57Z",
-                "open_issues": 1,
+                "open_issues": 3,
                 "owner": "nathanhoad",
                 "repo": "godot_dialogue_manager",
-                "stars": 3961,
+                "stars": 3962,
                 "topics": [
                   "addon",
                   "csharp",
@@ -2469,7 +2469,7 @@
                 "id": 559228411,
                 "language": "GDScript",
                 "license": "MIT",
-                "last_commit": "2026-11-03T23:09:21Z",
+                "last_commit": "2026-11-04T22:00:44Z",
                 "open_issues": 66,
                 "owner": "ramokz",
                 "repo": "phantom-camera",
@@ -2533,7 +2533,7 @@
                 "open_issues": 61,
                 "owner": "limbonaut",
                 "repo": "limboai",
-                "stars": 3107,
+                "stars": 3110,
                 "topics": [
                   "artificial-intelligence",
                   "behavior-tree",
@@ -2561,7 +2561,7 @@
                 "open_issues": 71,
                 "owner": "HungryProton",
                 "repo": "scatter",
-                "stars": 3020,
+                "stars": 3023,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:50.226Z"
@@ -2582,7 +2582,7 @@
                 "open_issues": 82,
                 "owner": "bitwes",
                 "repo": "Gut",
-                "stars": 2774,
+                "stars": 2773,
                 "topics": [
                   "godot",
                   "godot-engine",
@@ -2608,7 +2608,7 @@
                 "open_issues": 195,
                 "owner": "Zylann",
                 "repo": "godot_heightmap_plugin",
-                "stars": 2287,
+                "stars": 2288,
                 "topics": [
                   "game-development",
                   "godot-engine",
@@ -2634,7 +2634,7 @@
                 "open_issues": 16,
                 "owner": "SirRamEsq",
                 "repo": "SmartShape2D",
-                "stars": 1762,
+                "stars": 1761,
                 "topics": [
                   "godot",
                   "plugin"
@@ -2658,7 +2658,7 @@
                 "open_issues": 14,
                 "owner": "Maaack",
                 "repo": "Godot-Game-Template",
-                "stars": 1722,
+                "stars": 1723,
                 "topics": [
                   "game-development",
                   "godot",
@@ -2681,9 +2681,9 @@
                 "description": "NobodyWho is an inference engine that lets you run LLMs locally and efficiently on any device.  ",
                 "homepage": "https://nobodywho.ai",
                 "id": 851630314,
-                "language": "Rust",
+                "language": null,
                 "license": "EUPL-1.2",
-                "last_commit": "2026-11-04T15:59:39Z",
+                "last_commit": "2026-11-05T16:15:42Z",
                 "open_issues": 21,
                 "owner": "nobodywho-ooo",
                 "repo": "nobodywho",
@@ -2750,7 +2750,7 @@
                 "open_issues": 125,
                 "owner": "CraterCrash",
                 "repo": "godot-orchestrator",
-                "stars": 1643,
+                "stars": 1642,
                 "topics": [
                   "godot",
                   "godot-engine",
@@ -2805,7 +2805,7 @@
                 "open_issues": 32,
                 "owner": "viniciusgerevini",
                 "repo": "godot-aseprite-wizard",
-                "stars": 1399,
+                "stars": 1400,
                 "topics": [
                   "animation",
                   "aseprite",
@@ -2830,7 +2830,7 @@
                 "open_issues": 30,
                 "owner": "spimort",
                 "repo": "TerraBrush",
-                "stars": 1331,
+                "stars": 1334,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:50.226Z"
@@ -2847,11 +2847,11 @@
                 "id": 546211411,
                 "language": "GDScript",
                 "license": "MIT",
-                "last_commit": "2026-11-03T20:30:05Z",
+                "last_commit": "2026-11-04T19:02:18Z",
                 "open_issues": 14,
                 "owner": "godot-gdunit-labs",
                 "repo": "gdUnit4",
-                "stars": 1289,
+                "stars": 1291,
                 "topics": [
                   "game-development",
                   "gdscript",
@@ -2906,7 +2906,7 @@
                 "open_issues": 54,
                 "owner": "foxssake",
                 "repo": "netfox",
-                "stars": 1124,
+                "stars": 1125,
                 "topics": [
                   "godot",
                   "godot-engine",
@@ -2960,7 +2960,7 @@
                 "open_issues": 9,
                 "owner": "Maran23",
                 "repo": "script-ide",
-                "stars": 1063,
+                "stars": 1064,
                 "topics": [
                   "addon",
                   "gdscript",
@@ -2990,7 +2990,7 @@
                 "open_issues": 17,
                 "owner": "MarcoFazioRandom",
                 "repo": "Virtual-Joystick-Godot",
-                "stars": 990,
+                "stars": 989,
                 "topics": [
                   "gdscript",
                   "godot",
@@ -3011,9 +3011,9 @@
                 "homepage": null,
                 "id": 178191553,
                 "language": "C++",
-                "license": "MIT",
-                "last_commit": "2026-11-04T16:49:43Z",
-                "open_issues": 52,
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-05T06:43:37Z",
+                "open_issues": 31,
                 "owner": "utopia-rise",
                 "repo": "fmod-gdextension",
                 "stars": 950,
@@ -3045,10 +3045,10 @@
                 "language": "GDScript",
                 "license": "MIT",
                 "last_commit": "2026-11-03T21:58:07Z",
-                "open_issues": 8,
+                "open_issues": 7,
                 "owner": "func-godot",
                 "repo": "func_godot_plugin",
-                "stars": 885,
+                "stars": 886,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:50.226Z"
@@ -3066,10 +3066,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-31T13:23:52Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "friflo",
                 "repo": "Friflo.Engine.ECS",
-                "stars": 804,
+                "stars": 806,
                 "topics": [
                   "csharp",
                   "data-oriented",
@@ -3476,7 +3476,7 @@
                 "open_issues": 1,
                 "owner": "henriquelalves",
                 "repo": "SimpleGodotCRTShader",
-                "stars": 398,
+                "stars": 399,
                 "topics": [
                   "crt",
                   "godot",
@@ -3632,7 +3632,7 @@
                 "open_issues": 14,
                 "owner": "godot-sdk-integrations",
                 "repo": "godot-play-game-services",
-                "stars": 282,
+                "stars": 283,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:50.226Z"
@@ -3708,7 +3708,7 @@
                 "open_issues": 1,
                 "owner": "TaloDev",
                 "repo": "godot",
-                "stars": 249,
+                "stars": 250,
                 "topics": [
                   "analytics",
                   "authentication",
@@ -4727,7 +4727,7 @@
                 "open_issues": 7,
                 "owner": "Arnklit",
                 "repo": "Waterways",
-                "stars": 1346,
+                "stars": 1347,
                 "topics": [
                   "flowmap",
                   "godot",
@@ -4879,7 +4879,7 @@
                 "open_issues": 1,
                 "owner": "tomankirilov",
                 "repo": "VPainter",
-                "stars": 506,
+                "stars": 507,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:50.226Z"
@@ -5026,7 +5026,7 @@
                 "open_issues": 6,
                 "owner": "Arnklit",
                 "repo": "ShellFurGodot",
-                "stars": 358,
+                "stars": 359,
                 "topics": [
                   "fur",
                   "godot"
@@ -6050,7 +6050,7 @@
                 "open_issues": 6,
                 "owner": "gdquest-demos",
                 "repo": "godot-shaders",
-                "stars": 4197,
+                "stars": 4195,
                 "topics": [
                   "game",
                   "game-assets",
@@ -6215,10 +6215,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-01T17:20:33Z",
-                "open_issues": 252,
+                "open_issues": 254,
                 "owner": "Zylann",
                 "repo": "godot_voxel",
-                "stars": 4107,
+                "stars": 4109,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:50.226Z"
@@ -6239,7 +6239,7 @@
                 "open_issues": 0,
                 "owner": "GodotSteam",
                 "repo": "GodotSteam",
-                "stars": 3773,
+                "stars": 3774,
                 "topics": [
                   "game-development",
                   "gamedev",
@@ -6325,7 +6325,7 @@
                 "open_issues": 24,
                 "owner": "appsinacup",
                 "repo": "godot-rapier-physics",
-                "stars": 1038,
+                "stars": 1039,
                 "topics": [
                   "2d",
                   "3d",
@@ -7125,7 +7125,7 @@
             "id": 242981223,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T06:41:27Z",
+            "last_commit": "2026-11-05T07:21:05Z",
             "open_issues": 19,
             "owner": "JetBrains",
             "repo": "godot-support",
@@ -7395,7 +7395,7 @@
                 "open_issues": 9,
                 "owner": "passivestar",
                 "repo": "godot-minimal-theme",
-                "stars": 3765,
+                "stars": 3764,
                 "topics": [
                   "game-engine",
                   "gamedev",
@@ -7732,7 +7732,7 @@
             "open_issues": 19,
             "owner": "zfoo-project",
             "repo": "zfoo",
-            "stars": 2013,
+            "stars": 2011,
             "topics": [
               "byte-buddy",
               "cocos",
@@ -8103,7 +8103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T17:10:20.924Z",
+    "last_updated": "2026-11-05T17:20:36.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of free/libre plugins, scripts and add-ons for Godot",
@@ -8112,7 +8112,7 @@
       "language": null,
       "license": "CC-BY-4.0",
       "last_commit": "2026-10-27T01:47:38Z",
-      "open_issues": 87,
+      "open_issues": 88,
       "owner": "Calinou",
       "repo": "awesome-godot",
       "stars": 10958,
